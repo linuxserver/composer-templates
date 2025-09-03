@@ -1,0 +1,3 @@
+# Composer Templates
+
+Coming soon.
